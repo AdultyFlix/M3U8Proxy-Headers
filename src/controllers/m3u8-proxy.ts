@@ -14,8 +14,8 @@ export const m3u8Proxy = async (req: Request, res: Response) => {
       responseType: 'stream',
       headers: {
         Accept: "*/*",
-        Referer: "https://megacloud.club/",
-        Origin: "https://megacloud.club"
+        Referer: "https://www.erogarga.com/",
+        Origin: "https://www.erogarga.com"
       }
     });
 
